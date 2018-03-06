@@ -11,9 +11,11 @@ $composer-rest-server
 *Optional :- recreate .bna file, if .bna file missing $ composer archive create -t dir -n.
 
 
+
 Running on Online composer playground:-
 
 Click https://composer-playground.mybluemix.net/login
 Deploy a new Business network
 
-Drag and drop the .bna file
+Drag and drop the .bna file and then manually add queiries.js
+

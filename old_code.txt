@@ -1,0 +1,16 @@
+{
+  "$class": "org.acme.biznet.executeUTXO",
+  "value": 100,
+  "newOwner": "resource:org.acme.biznet.User#4480",
+  "prevOwner": "resource:org.acme.biznet.User#7229"
+}
+
+       
+                         for (var n = 0; n < results.length; n++) {
+                           throw new Error("here")
+                         var spent = results[n];
+                         total = spent.value + total;   // calculate total value of all UTXOs
+                         spent.status = false;
+                         }
+                         return assetReg.updateall(spent.utxo);  // update the UTXOs to be now marked as spent
+           })
